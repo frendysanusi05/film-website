@@ -15,3 +15,29 @@
     text-shadow: 2px 2px black;
     letter-spacing: 4px;
 }
+
+.trending {
+    height: auto;
+    background: url('../assets/images/bg/scifi.jpg');
+    background-size: cover;
+}
+
+.superhero {
+    height: auto;
+    background: url('../assets/images/bg/spiderman.jpg');
+    background-size: cover;
+}
+
+.movieWrapper {
+    
+}
+
+.movieImage {
+    height: 200px;
+    margin: 5px;
+    padding: 5px;
+}
+
+.images {
+    height: 500px;
+}
